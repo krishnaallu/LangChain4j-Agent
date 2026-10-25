@@ -1,6 +1,0 @@
-com\example\agent\ChatController.class
-com\example\agent\AgentApplication.class
-com\example\agent\AssistantTools.class
-com\example\agent\Assistant.class
-com\example\agent\ChatController$HistoryMessage.class
-com\example\agent\ChatMemoryConfig.class
